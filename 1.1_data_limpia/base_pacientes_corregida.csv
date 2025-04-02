@@ -1,0 +1,327 @@
+Sexo,Edad,Localidad,Ocupacion,Grado de Inst.,IMC_kg/m2,TBQ_cod,PAS_mmhg,PAD_mmhg,Sodio mg/d,Col_mg/dl,Glucemia_m,Bebidas_azucar ml/sem,Consumo_verduras,Consumo_pescado,AF_cod,NDVI_clasif,NDWI_clasif,NDBI_clasif,IMC_clasif,SCI_Final
+1.0,55.0,Interior,Desocupado,Secundario incompleto,22.2,0.0,147.0,85.0,1012.99,196.87058823529412,108.92490118577075,7000.0,113.45,0.0,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+1.0,51.0,Córdoba,Empleado doméstico,Secundario completo,25.2,0.0,136.0,85.0,4222.0,121.0,109.0,1500.03,312.14,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,58.0,Córdoba,Empleado doméstico,Primario completo,29.6,0.0,140.0,80.0,1682.58,251.0,94.0,31500.0,361.97,70.0,Bajo,Suelo sin vegetacion,Humedad,Cubierta edificada,Sobrepeso,Pobre
+0.0,73.0,Córdoba,Jubilado,Primario incompleto,22.6,0.0,127.0,74.0,2586.9,125.0,100.0,7000.0,850.36,30.31,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+1.0,69.0,Córdoba,Empleado doméstico,Primario completo,27.5,2.0,118.0,80.0,1734.51,210.0,83.0,21000.0,1009.05,49.98,Bajo,Poca vegetacion,Humedad,Cubierta edificada,Sobrepeso,Pobre
+0.0,43.0,Córdoba,Desocupado,Secundario incompleto,37.6,2.0,120.0,70.0,2088.37,138.0,86.0,7500.01,270.0,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,69.0,Córdoba,Jubilado,Primario completo,29.0,0.0,117.0,70.0,1547.04,235.0,97.0,0.0,389.07,0.0,Moderado,Suelo sin vegetacion,Humedad,Cubierta edificada,Sobrepeso,Pobre
+1.0,59.0,Córdoba,Empleado doméstico,Secundario completo,23.6,0.0,108.0,69.0,2692.01,204.0,106.0,0.0,1879.64,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+1.0,64.0,Córdoba,Jubilado,Secundario incompleto,29.3,2.0,136.0,94.0,2233.89,196.87058823529412,108.92490118577075,7000.0,1009.53,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,63.0,Córdoba,Empleado doméstico,Primario incompleto,22.1,1.0,110.0,60.0,943.97,170.0,94.0,850.01,979.76,46.69,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Intermedio
+1.0,63.0,Córdoba,Empleado doméstico,Primario completo,33.8,0.0,140.0,100.0,1914.86,261.0,101.0,5250.0,270.72,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,68.0,Córdoba,Empleado doméstico,Universitario incompleto,23.7,0.0,90.0,60.0,1467.07,198.0,76.0,3500.0,956.82,49.98,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Intermedio
+1.0,34.0,Córdoba,Oficio,Terciario completo,19.5,0.0,85.0,40.0,1917.56,218.0,73.0,5000.03,264.52,0.0,Bajo,Poca vegetacion,Humedad,Cubierta edificada,Normopeso,Pobre
+1.0,61.0,Córdoba,Empleado doméstico,Secundario completo,25.4,2.0,115.0,70.0,1619.96,232.0,95.0,31500.0,170.71,0.0,Moderado,Suelo sin vegetacion,Humedad,Cubierta edificada,Sobrepeso,Pobre
+0.0,72.0,Córdoba,Jubilado,Terciario completo,23.9,2.0,150.0,80.0,1820.23,202.0,106.0,0.0,387.14,46.69,Moderado,Vegetacion media,Humedad,Cubierta vegetal,Normopeso,Pobre
+1.0,59.0,Interior,Empleado doméstico,Primario completo,29.1,0.0,125.0,60.0,2665.41,188.0,105.0,500.01,791.91,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Intermedio
+0.0,47.0,Córdoba,Oficio,Primario completo,27.6,2.0,120.0,80.0,2233.94,241.0,133.0,2250.01,2732.87,342.02,Moderado,Suelo sin vegetacion,Humedad,Cubierta edificada,Sobrepeso,Pobre
+0.0,44.0,Córdoba,Profesional,Terciario completo,26.1,0.0,130.0,80.0,780.51,158.0,102.0,0.0,956.43,899.99,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Intermedio
+1.0,39.0,Córdoba,Empleado doméstico,Secundario incompleto,28.3,0.0,90.0,60.0,2382.7,136.0,101.0,38500.0,942.87,300.02,Alto,Suelo sin vegetacion,Humedad,Cubierta edificada,Sobrepeso,Intermedio
+0.0,62.0,Córdoba,Desocupado,Secundario completo,21.4,1.0,145.0,80.0,1038.5,237.0,102.0,233.31,549.47,35.0,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+0.0,62.0,Córdoba,Oficio,Primario completo,27.1,1.0,135.0,80.0,2237.58,174.0,110.0,5999.91,1039.62,35.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,46.0,Córdoba,Oficio,Secundario completo,27.4,0.0,120.0,70.0,1182.82,191.0,95.0,5000.03,325.73,70.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,67.0,Interior,Empleado doméstico,Secundario completo,33.3,1.0,130.0,80.0,3583.63,182.0,99.0,233.31,573.01,123.69,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,48.0,Córdoba,Empleado doméstico,Primario completo,34.0,1.0,130.0,80.0,6972.55,227.0,104.0,3500.0,1183.92,100.03,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,65.0,Córdoba,Empleado doméstico,Secundario completo,31.4,0.0,120.0,70.0,1720.2,232.0,130.0,0.0,905.23,28.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,66.0,Córdoba,Jubilado,Primario completo,26.1,0.0,140.0,90.0,1982.97,229.0,187.0,466.62,682.84,46.69,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,65.0,Córdoba,Jubilado,Secundario completo,23.1,0.0,135.0,80.0,1135.48,169.0,101.0,2999.99,451.38,11.69,Alto,Suelo sin vegetacion,Humedad,Cubierta edificada,Normopeso,Intermedio
+0.0,51.0,Interior,Profesional,Universitario completo,28.4,1.0,140.0,90.0,1872.55,149.0,102.0,58.31,391.06,93.31,Bajo,Vegetacion media,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,62.0,Interior,Empleado doméstico,Universitario incompleto,45.0,0.0,140.0,90.0,2637.92,208.0,154.0,233.38,2081.06,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,72.0,Córdoba,Empleado doméstico,Primario completo,31.0,0.0,170.0,80.0,2462.53,179.0,112.0,0.0,2039.51,100.03,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,69.0,Córdoba,Oficio,Primario completo,23.4,1.0,140.0,80.0,1445.13,133.0,113.0,3500.0,497.63,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+1.0,64.0,Córdoba,Empleado doméstico,Primario completo,27.8,0.0,120.0,70.0,497.11,162.0,191.0,1999.97,532.63,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,58.0,Córdoba,Empleado doméstico,Primario completo,15.8,0.0,133.5675,79.87974683544304,1055.42,196.0,91.0,116.69,257.96,49.98,Bajo,Suelo sin vegetacion,Humedad,Cubierta edificada,Bajo peso,Pobre
+0.0,58.0,Córdoba,Comerciante,Secundario incompleto,28.3,1.0,120.0,70.0,5322.29,196.87058823529412,108.92490118577075,0.0,764.1,214.06,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,65.0,Córdoba,Oficio,Primario incompleto,31.6,0.0,140.0,70.0,1204.63,178.0,96.0,0.0,154.75,35.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,68.0,Córdoba,Jubilado,Secundario incompleto,29.8,0.0,180.0,100.0,1843.64,149.0,92.0,0.0,315.35,100.03,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,69.0,Córdoba,Oficio,Primario incompleto,27.8,1.0,170.0,90.0,3317.33,280.0,367.0,4000.01,855.3,46.69,Alto,Poca vegetacion,Humedad,Cubierta edificada,Sobrepeso,Pobre
+0.0,49.0,Córdoba,Oficio,Secundario incompleto,27.9,0.0,130.0,80.0,4080.99,194.0,124.0,9999.99,381.33,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,56.0,Córdoba,Comerciante,Universitario completo,26.0,1.0,130.0,80.0,2367.79,196.87058823529412,108.92490118577075,11000.01,496.47,599.97,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Intermedio
+0.0,65.0,Córdoba,Jubilado,Primario completo,29.7,1.0,110.0,60.0,1816.75,143.0,104.0,2999.99,2030.91,300.02,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,73.0,Córdoba,Jubilado,Secundario completo,29.6,2.0,140.0,90.0,1961.33,238.0,96.0,0.0,947.87,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,59.0,Córdoba,Jubilado,Secundario completo,39.8,0.0,120.0,50.0,2618.59,202.0,99.0,7116.69,481.5,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,57.0,Córdoba,Oficio,Secundario completo,33.8,1.0,180.0,100.0,3408.15,196.87058823529412,108.92490118577075,2999.99,2217.62,105.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,54.0,Interior,Empleado doméstico,Primario completo,25.2,0.0,120.0,85.0,2083.37,168.0,86.0,3500.0,905.96,105.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,67.0,Córdoba,Empleado doméstico,Primario completo,20.7,0.0,130.0,80.0,808.14,170.0,109.0,0.0,880.47,0.0,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Intermedio
+0.0,69.0,Córdoba,Oficio,Primario incompleto,29.9,1.0,150.0,90.0,1420.23,195.0,120.0,0.0,799.49,0.0,Bajo,Suelo sin vegetacion,Humedad,Cubierta edificada,Sobrepeso,Pobre
+1.0,45.0,Córdoba,Empleado doméstico,Secundario incompleto,24.4,0.0,120.0,60.0,1522.56,196.87058823529412,108.92490118577075,500.01,518.22,46.69,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Intermedio
+1.0,50.0,Córdoba,Empleado doméstico,Secundario completo,42.0,0.0,120.0,80.0,1407.24,178.0,98.0,3500.0,611.67,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,66.0,Córdoba,Jubilado,Primario completo,57.6,0.0,135.0,80.0,1146.55,196.87058823529412,108.92490118577075,0.0,1617.17,100.03,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,56.0,Córdoba,Empleado doméstico,Primario completo,25.2,0.0,120.0,60.0,1514.46,196.87058823529412,108.92490118577075,0.0,1431.67,46.69,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Intermedio
+1.0,45.0,Córdoba,Desocupado,Universitario completo,34.7,0.0,140.0,80.0,2838.32,180.0,82.0,10500.0,503.81,0.0,Bajo,Suelo sin vegetacion,Humedad,Cubierta edificada,Obesidad,Pobre
+1.0,54.0,Córdoba,Oficio,Primario completo,47.6,1.0,110.0,70.0,973.4,196.87058823529412,108.92490118577075,58.31,329.3,150.01,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,56.0,Córdoba,Empleado doméstico,Primario completo,28.1,1.0,94.0,60.0,1388.85,206.0,137.0,0.0,917.01,899.99,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,44.0,Córdoba,Empleado doméstico,Secundario incompleto,22.6,1.0,135.0,80.0,3540.3,193.0,86.0,5499.97,699.27,0.0,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+0.0,64.0,Córdoba,Oficio,Primario completo,25.3,0.0,133.5675,79.87974683544304,1459.09,196.87058823529412,108.92490118577075,3733.31,634.91,105.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Intermedio
+0.0,74.0,Córdoba,Jubilado,Primario completo,29.0,1.0,170.0,80.0,3220.2,126.0,89.0,1500.03,832.37,21.0,Bajo,Vegetacion media,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,64.0,Córdoba,Empleado doméstico,Secundario completo,35.0,0.0,120.0,80.0,2498.61,146.0,107.0,0.0,862.87,0.0,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,62.0,Córdoba,Jubilado,Secundario incompleto,31.0,0.0,120.0,70.0,1958.74,189.0,97.0,749.98,1181.46,0.0,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,45.0,Córdoba,Empleado doméstico,Primario completo,30.2,1.0,140.0,80.0,787.37,152.0,76.0,0.0,115.72,49.98,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,62.0,Córdoba,Oficio,Secundario completo,29.1,1.0,130.0,80.0,2103.22,260.0,212.0,1999.97,706.16,70.0,Moderado,Vegetacion media,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,45.0,Córdoba,Empleado doméstico,Primario completo,34.2,0.0,150.0,100.0,4391.22,196.87058823529412,108.92490118577075,7000.0,909.99,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,61.0,Córdoba,Empleado doméstico,Primario incompleto,27.0,0.0,120.0,80.0,1048.63,209.0,109.0,2750.02,722.64,35.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,46.0,Córdoba,Oficio,Primario incompleto,38.2,0.0,175.0,100.0,2179.89,196.87058823529412,108.92490118577075,14000.0,660.53,150.01,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,41.0,Córdoba,Profesional,Universitario incompleto,38.0,0.0,180.0,120.0,3797.45,184.0,113.0,500.01,448.19,0.0,Alto,Suelo sin vegetacion,Sequia moderada,Cubierta edificada,Obesidad,Pobre
+0.0,62.0,Córdoba,Oficio,Secundario completo,26.9,0.0,150.0,80.0,3263.69,137.0,96.0,6174.98,810.1,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,63.0,Interior,Empleado doméstico,Primario completo,25.1,0.0,140.0,80.0,980.8,173.0,197.0,233.31,618.56,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,53.0,Córdoba,Profesional,Primario completo,42.2,1.0,130.0,80.0,907.28,318.0,125.0,1750.0,709.54,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,71.0,Córdoba,Jubilado,Secundario completo,24.8,2.0,130.0,80.0,551.9,196.87058823529412,108.92490118577075,0.0,940.73,105.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+0.0,45.0,Córdoba,Comerciante,Secundario completo,28.8,2.0,130.0,90.0,6009.78,196.87058823529412,108.92490118577075,26250.0,1056.43,300.02,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,47.0,Córdoba,Oficio,Secundario incompleto,29.4,1.0,130.0,70.0,1571.49,196.87058823529412,108.92490118577075,10500.0,267.14,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,49.0,Córdoba,Profesional,Universitario completo,30.3,0.0,135.0,95.0,2007.93,185.0,106.0,10500.0,398.35,185.01,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,61.0,Interior,Oficio,Primario completo,42.4,0.0,140.0,90.0,1266.2,152.0,130.0,0.0,307.86,70.0,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,48.0,Córdoba,Empleado doméstico,Primario completo,22.4,1.0,120.0,70.0,766.56,248.0,94.0,0.0,1103.87,0.0,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+0.0,78.0,Córdoba,Jubilado,Primario completo,29.1,1.0,120.0,80.0,1230.44,167.0,113.0,1500.03,113.33,0.0,Bajo,Suelo sin vegetacion,Humedad,Cubierta edificada,Sobrepeso,Pobre
+1.0,58.0,Córdoba,Desocupado,Primario completo,25.4,2.0,110.0,60.0,1334.7,220.0,91.0,675.01,652.16,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,51.0,Córdoba,Desocupado,Primario completo,22.6,2.0,150.0,110.0,615.31,160.0,120.0,1750.0,154.27,23.31,Moderado,Suelo sin vegetacion,Humedad,Cubierta edificada,Normopeso,Pobre
+1.0,59.0,Córdoba,Empleado doméstico,Secundario completo,32.8,1.0,160.0,85.0,1076.48,251.0,141.0,8000.02,1054.62,49.98,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,60.0,Córdoba,Empleado doméstico,Secundario completo,24.5,1.0,100.0,70.0,3347.41,216.0,99.0,7000.0,1144.55,23.31,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+1.0,66.0,Córdoba,Empleado doméstico,Primario completo,34.5,0.0,130.0,85.0,1837.84,212.0,96.0,0.0,748.57,11.69,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,66.0,Córdoba,Jubilado,Primario completo,28.7,0.0,160.0,110.0,1844.26,186.0,108.0,11000.01,323.35,100.03,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,56.0,Córdoba,Oficio,Primario completo,38.3,1.0,150.0,100.0,1061.71,154.0,165.0,7000.0,114.46,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,78.0,Córdoba,Profesional,Universitario completo,30.8,0.0,123.0,77.0,1772.92,141.0,102.0,58.31,692.71,46.62,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,80.0,Interior,Jubilado,Primario completo,29.9,1.0,140.0,75.0,845.09,189.0,107.0,0.0,320.71,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,51.0,Córdoba,Empleado doméstico,Primario completo,23.1,2.0,100.0,70.0,2675.74,146.0,93.0,8000.02,532.87,0.0,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+1.0,40.0,Córdoba,Desocupado,Universitario completo,25.7,2.0,120.0,70.0,1880.51,196.87058823529412,108.92490118577075,1000.02,921.32,0.0,Moderado,Suelo sin vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,46.0,Córdoba,Oficio,Secundario completo,25.1,2.0,145.0,90.0,1410.54,196.87058823529412,108.92490118577075,0.0,396.61,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,65.0,Córdoba,Jubilado,Primario completo,40.6,0.0,130.0,70.0,1041.75,257.0,157.0,1750.0,778.21,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,53.0,Córdoba,Empleado doméstico,Primario completo,24.2,1.0,140.0,95.0,814.83,176.0,112.0,0.0,693.11,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+0.0,61.0,Córdoba,Oficio,Secundario incompleto,30.2,1.0,160.0,90.0,1243.3,276.0,114.0,4500.02,372.27,140.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,56.0,Córdoba,Oficio,Primario completo,28.4,1.0,126.0,80.0,1104.24,111.0,213.0,7000.0,212.38,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,62.0,Córdoba,Empleado doméstico,Primario completo,31.3,1.0,160.0,90.0,1109.63,196.87058823529412,108.92490118577075,1808.31,920.48,0.0,Moderado,Suelo sin vegetacion,Humedad,Cubierta edificada,Obesidad,Pobre
+0.0,54.0,Córdoba,Desocupado,Secundario incompleto,44.3,0.0,120.0,90.0,3242.52,166.0,140.0,29000.02,1460.0,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,67.0,Córdoba,Oficio,Secundario completo,27.2,1.0,100.0,60.0,575.76,220.0,93.0,0.0,320.01,150.01,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Intermedio
+1.0,62.0,Córdoba,Empleado doméstico,Secundario completo,27.9,1.0,120.0,70.0,2387.52,232.0,114.0,7000.0,575.12,70.0,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,48.0,Interior,Oficio,Primario completo,28.8,1.0,140.0,90.0,567.96,255.0,98.0,500.01,499.82,11.69,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,59.0,Interior,Empleado doméstico,Primario completo,30.5,0.0,170.0,100.0,1414.45,196.87058823529412,108.92490118577075,7000.0,444.47,0.0,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,48.0,Córdoba,Oficio,Secundario incompleto,36.7,2.0,90.0,70.0,1341.92,196.87058823529412,108.92490118577075,5250.0,335.47,0.0,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,70.0,Córdoba,Comerciante,Primario incompleto,28.4,0.0,130.0,80.0,3538.89,200.0,89.0,7000.0,1050.38,300.02,Moderado,Suelo sin vegetacion,Humedad,Cubierta edificada,Sobrepeso,Intermedio
+0.0,62.0,Córdoba,Oficio,Secundario incompleto,26.6,2.0,120.0,80.0,1552.64,215.0,92.0,5250.0,456.17,0.0,Bajo,Vegetacion media,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,54.0,Interior,Empleado doméstico,Primario incompleto,48.7,1.0,120.0,80.0,1261.92,196.87058823529412,108.92490118577075,4249.98,1375.01,35.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,55.0,Córdoba,Empleado doméstico,Primario completo,28.6,0.0,150.0,80.0,3378.75,229.0,107.0,7000.0,1804.49,70.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,66.0,Córdoba,Oficio,Primario completo,33.6,1.0,150.0,100.0,2927.08,225.0,111.0,10500.0,1328.96,300.02,Moderado,Suelo sin vegetacion,Humedad,Cubierta edificada,Obesidad,Pobre
+1.0,67.0,Córdoba,Empleado doméstico,Primario completo,25.3,2.0,130.0,70.0,1387.7,243.0,197.0,7000.0,911.9,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,66.0,Interior,Jubilado,Secundario incompleto,33.3,1.0,140.0,100.0,1367.86,136.0,90.0,3000.06,1506.39,100.03,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,56.0,Córdoba,Profesional,Secundario incompleto,23.5,2.0,110.0,80.0,1035.69,200.0,83.0,500.01,1697.44,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+1.0,72.0,Córdoba,Jubilado,Universitario completo,22.8,1.0,120.0,70.0,1617.93,244.0,113.0,0.0,842.89,11.69,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+0.0,77.0,Córdoba,Jubilado,Primario incompleto,23.7,1.0,130.0,80.0,983.48,103.0,85.0,10500.0,745.8,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+1.0,48.0,Córdoba,Empleado doméstico,Primario completo,34.0,1.0,120.0,80.0,2576.27,226.0,173.0,35000.0,3032.81,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,54.0,Córdoba,Empleado doméstico,Secundario completo,34.0,1.0,130.0,80.0,2631.63,196.87058823529412,108.92490118577075,749.98,870.59,150.01,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,67.0,Córdoba,Jubilado,Primario completo,27.0,0.0,100.0,70.0,1240.53,196.87058823529412,108.92490118577075,0.0,897.14,154.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Intermedio
+0.0,64.0,Córdoba,Oficio,Primario completo,28.7,2.0,110.0,60.0,1878.22,177.0,140.0,2999.99,422.15,150.01,Moderado,Suelo sin vegetacion,Humedad,Cubierta edificada,Sobrepeso,Pobre
+1.0,44.0,Córdoba,Comerciante,Primario completo,29.5,1.0,120.0,60.0,1429.77,190.0,93.0,3500.0,558.44,28.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,41.0,Córdoba,Oficio,Secundario incompleto,36.113210716385,2.0,120.0,100.0,3846.05,160.0,194.0,5250.0,1281.92,0.0,Bajo,Vegetacion media,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,69.0,Córdoba,Empleado doméstico,Secundario completo,38.085327783559,1.0,130.0,70.0,1115.67,189.0,93.0,0.0,526.25,46.62,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,61.0,Córdoba,Oficio,Secundario completo,31.047694543533,1.0,160.0,80.0,3137.75,196.87058823529412,108.92490118577075,175.0,704.96,175.7,Bajo,Suelo sin vegetacion,Humedad,Cubierta edificada,Obesidad,Pobre
+0.0,71.0,Córdoba,Oficio,Primario incompleto,28.7568575424,1.0,110.0,60.0,6068.08,101.0,98.0,14000.0,2369.05,150.01,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,73.0,Córdoba,Jubilado,Secundario incompleto,34.742857142857,1.0,133.5675,79.87974683544304,1557.97,129.0,90.0,7000.0,400.25,46.69,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,67.0,Córdoba,Jubilado,Universitario completo,27.688778133776,0.0,120.0,70.0,1301.92,187.0,100.0,1000.02,1318.45,70.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,65.0,Córdoba,Jubilado,Secundario incompleto,35.41451446281,1.0,150.0,90.0,1448.9,152.0,128.0,808.29,418.35,35.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,69.0,Córdoba,Jubilado,Universitario incompleto,28.247675619835,1.0,130.0,80.0,1204.04,164.0,96.0,0.0,712.35,100.03,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,50.0,Córdoba,Desocupado,Universitario completo,40.29387755102,0.0,140.0,80.0,4861.43,196.87058823529412,108.92490118577075,26250.0,3332.14,0.0,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,57.0,Córdoba,Oficio,Primario completo,23.323415751855,1.0,110.0,80.0,3198.79,209.0,90.0,0.0,463.33,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+1.0,51.0,Córdoba,Empleado doméstico,Secundario incompleto,35.620106292345,2.0,160.0,70.0,1220.93,246.0,177.0,4000.01,261.05,49.98,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,37.0,Córdoba,Desocupado,Universitario completo,24.341425619835,1.0,130.0,80.0,2207.82,289.0,96.0,0.0,856.44,49.98,Bajo,Suelo sin vegetacion,Humedad,Cubierta edificada,Normopeso,Pobre
+1.0,52.0,Córdoba,Empleado doméstico,Terciario completo,24.887465373961,2.0,130.0,80.0,4462.46,404.0,99.0,7000.0,406.84,49.0,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+0.0,68.0,Córdoba,Jubilado,Primario completo,44.878892733564,0.0,130.0,70.0,2541.05,243.0,113.0,233.31,1210.95,23.31,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,54.0,Interior,Empleado doméstico,Secundario completo,29.859223497911,2.0,110.0,80.0,1734.82,196.87058823529412,108.92490118577075,500.01,663.33,0.0,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,52.0,Córdoba,Desocupado,Primario completo,29.387755102041,1.0,140.0,84.0,3789.27,177.0,76.0,10250.03,82.86,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,60.0,Interior,Desocupado,Primario incompleto,21.038062283737,1.0,140.0,80.0,654.56,163.0,91.0,0.0,214.28,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+1.0,63.0,Córdoba,Empleado doméstico,Secundario completo,26.71875,0.0,135.0,73.0,1808.46,207.0,82.0,0.0,868.38,300.02,Alto,Suelo sin vegetacion,Humedad,Cubierta edificada,Sobrepeso,Intermedio
+1.0,35.0,Córdoba,Empleado doméstico,Primario completo,34.755463059313,1.0,130.0,80.0,2056.84,235.0,90.0,21500.01,423.55,150.01,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,55.0,Córdoba,Docente,Terciario completo,28.723176948201,0.0,136.0,95.0,1063.52,202.0,119.0,175.0,2039.28,300.02,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Intermedio
+0.0,61.0,Córdoba,Jubilado,Primario completo,28.995500072579,1.0,105.0,70.0,896.74,196.87058823529412,108.92490118577075,0.0,789.3,49.98,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,67.0,Córdoba,Oficio,Primario completo,26.992861392029,1.0,145.0,80.0,1676.48,196.87058823529412,108.92490118577075,6750.03,683.14,70.0,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,52.0,Córdoba,Oficio,Secundario completo,32.009088175348,2.0,117.0,79.0,1433.74,174.0,94.0,3058.3,401.08,250.04,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,74.0,Córdoba,Jubilado,Primario completo,31.055900621118,0.0,130.0,80.0,1757.27,196.87058823529412,108.92490118577075,0.0,731.83,46.69,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,65.0,Interior,Jubilado,Terciario completo,29.494097123616,1.0,155.0,72.0,2444.18,184.0,86.0,1000.02,646.46,46.69,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,61.0,Córdoba,Jubilado,Primario completo,31.741788900398,0.0,140.0,70.0,2958.15,180.0,107.0,3500.0,429.52,35.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,69.0,Córdoba,Empleado doméstico,Secundario incompleto,31.054717268709,0.0,156.0,74.0,1380.61,214.0,90.0,0.0,719.89,35.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,70.0,Córdoba,Empleado doméstico,Primario incompleto,33.790422487078,0.0,166.0,77.0,1911.54,231.0,101.0,3500.0,505.82,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,36.0,Córdoba,Profesional,Universitario completo,26.005509641873,0.0,120.0,70.0,1745.7,168.0,78.0,0.0,2242.87,0.0,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Intermedio
+1.0,37.0,Córdoba,Empleado doméstico,Secundario completo,26.542185872459,2.0,114.0,76.0,1524.25,196.87058823529412,108.92490118577075,3500.0,2278.83,49.98,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,54.0,Córdoba,Oficio,Terciario completo,26.201190303382,0.0,220.0,120.0,1408.02,229.0,100.0,3500.0,1925.72,100.31,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,67.0,Córdoba,Jubilado,Primario completo,29.58906703699,1.0,154.0,99.0,1589.67,197.0,147.0,10500.0,853.08,100.03,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,56.0,Córdoba,Empleado doméstico,Primario completo,42.693951347798,1.0,120.0,70.0,841.2,159.0,77.0,2999.99,770.23,23.31,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,57.0,Córdoba,Empleado doméstico,Secundario completo,22.939750692521,0.0,120.0,60.0,651.25,196.87058823529412,108.92490118577075,0.0,948.56,100.03,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Intermedio
+0.0,58.0,Córdoba,Oficio,Primario completo,22.553695005199,2.0,120.0,80.0,1957.1,158.0,77.0,10616.69,421.48,0.0,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+1.0,56.0,Córdoba,Empleado doméstico,Primario completo,36.0,1.0,140.0,80.0,2320.82,218.0,145.0,116.62,1669.88,450.03,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,58.0,Córdoba,Empleado doméstico,Primario completo,35.967279473773,0.0,133.0,68.0,967.44,196.87058823529412,108.92490118577075,1000.02,124.52,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,61.0,Córdoba,Empleado doméstico,Secundario completo,27.570983379501,0.0,110.0,75.0,2394.77,207.0,86.0,0.0,0.0,150.01,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,55.0,Córdoba,Desocupado,Primario completo,25.160697887971,2.0,165.0,86.0,1612.0,196.87058823529412,89.0,0.0,3610.83,0.0,Moderado,Vegetacion media,Superficie con agua,Cubierta vegetal,Sobrepeso,Pobre
+1.0,63.0,Córdoba,Jubilado,Secundario incompleto,34.334084885883,0.0,130.0,70.0,2875.24,196.87058823529412,108.92490118577075,11500.02,1919.04,23.31,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,60.0,Córdoba,Desocupado,Primario completo,27.739673830209,1.0,140.0,90.0,3206.66,196.87058823529412,108.92490118577075,2250.01,848.82,100.03,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,69.0,Córdoba,Jubilado,Secundario completo,28.720083246618,2.0,129.0,63.0,1227.05,161.0,69.0,1750.0,232.38,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,63.0,Córdoba,Empleado doméstico,Primario completo,36.840489452217,0.0,125.0,75.0,1519.43,290.0,92.0,1500.03,749.84,69.93,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,43.0,Interior,Comerciante,Primario completo,49.30558169295,1.0,120.0,80.0,1396.22,196.87058823529412,108.92490118577075,1500.03,311.8,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,71.0,Córdoba,Jubilado,Primario completo,24.910767400357,2.0,170.0,84.0,1537.28,196.87058823529412,108.92490118577075,1750.0,487.11,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+1.0,71.0,Córdoba,Jubilado,Primario completo,23.244594535327,0.0,150.0,80.0,1354.36,196.87058823529412,108.92490118577075,58.31,1653.81,23.31,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+0.0,62.0,Córdoba,Desocupado,Primario completo,43.300432666306,1.0,120.0,80.0,1261.6,165.0,196.0,116.69,2491.68,70.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,45.0,Córdoba,Oficio,Secundario completo,58.109504132231,0.0,112.0,80.0,4602.22,159.0,102.0,11500.02,910.96,70.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,67.0,Córdoba,Empleado doméstico,Secundario incompleto,32.252552437097,0.0,150.0,80.0,2402.79,202.0,95.0,1750.0,1215.42,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,63.0,Córdoba,Comerciante,Primario completo,33.425815827718,1.0,127.0,82.0,2829.3,196.87058823529412,108.92490118577075,0.0,1234.41,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,59.0,Córdoba,Oficio,Secundario completo,30.16,2.0,150.0,60.0,1700.11,196.87058823529412,108.92490118577075,500.01,242.22,23.31,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,53.0,Córdoba,Comerciante,Secundario completo,31.71,2.0,160.0,80.0,1433.74,179.0,97.0,3058.3,401.08,250.04,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,45.0,Córdoba,Oficio,Primario completo,36.62,0.0,133.0,85.0,951.48,251.0,102.0,4000.01,1573.12,0.0,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,54.0,Córdoba,Desocupado,Secundario completo,41.31,1.0,105.0,70.0,1431.5,112.0,116.0,1983.31,1011.18,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,59.0,Córdoba,Comerciante,Primario completo,30.42,1.0,156.0,90.0,4142.65,251.0,107.0,0.0,296.46,492.03,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,54.0,Interior,Empleado doméstico,Primario completo,30.48,0.0,132.0,75.0,5638.82,218.0,115.0,12000.03,1296.76,150.01,Alto,Poca vegetacion,Humedad,Cubierta edificada,Obesidad,Pobre
+0.0,53.0,Córdoba,Empleado doméstico,Primario completo,26.71,2.0,160.0,97.0,1747.49,192.0,82.0,15750.0,353.27,150.01,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,61.0,Córdoba,Empleado doméstico,Primario completo,27.16,2.0,165.0,99.0,2031.46,160.0,90.0,5999.98,644.89,70.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,63.0,Córdoba,Comerciante,Terciario completo,26.358024691358,2.0,170.0,90.0,1433.21,196.87058823529412,108.92490118577075,350.0,690.72,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,65.0,Córdoba,Empleado doméstico,Primario completo,26.271946687172,0.0,149.0,80.0,945.22,301.0,91.0,0.0,537.03,100.03,Moderado,Vegetacion media,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,67.0,Córdoba,Empleado doméstico,Secundario incompleto,32.367001447305,0.0,140.0,70.0,1504.39,170.0,144.0,1500.03,1004.65,35.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,53.0,Córdoba,Empleado doméstico,Secundario incompleto,17.856517628935,1.0,160.0,90.0,4460.47,196.87058823529412,108.92490118577075,3500.0,913.53,0.0,Alto,Suelo sin vegetacion,Humedad,Cubierta edificada,Bajo peso,Pobre
+0.0,77.0,Córdoba,Jubilado,Primario completo,17.201110970837,1.0,140.0,50.0,2884.16,196.87058823529412,108.92490118577075,1999.97,453.04,93.31,Moderado,Poca vegetacion,Humedad,Cubierta edificada,Bajo peso,Pobre
+1.0,65.0,Córdoba,Empleado doméstico,Primario completo,32.839181835241,0.0,166.0,95.0,1225.13,208.0,102.0,116.69,1739.75,0.0,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,63.0,Córdoba,Comerciante,Secundario incompleto,23.523655387858,1.0,115.0,65.0,2018.22,196.87058823529412,108.92490118577075,7000.0,1947.15,100.03,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+1.0,37.0,Córdoba,Empleado doméstico,Primario completo,34.800713860797,2.0,149.0,100.0,1435.35,196.87058823529412,108.92490118577075,10749.97,715.1,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,62.0,Interior,Empleado doméstico,Primario completo,30.421849648459,1.0,215.0,88.0,914.73,196.87058823529412,108.92490118577075,0.0,651.45,23.31,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,52.0,Córdoba,Empleado doméstico,Secundario incompleto,41.256279419327,0.0,115.0,60.0,5664.69,196.87058823529412,209.0,21000.0,2131.42,35.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,51.0,Córdoba,Empleado doméstico,Primario completo,23.433744592213,0.0,115.0,72.0,900.52,197.0,113.0,0.0,1496.43,199.99,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Intermedio
+1.0,62.0,Córdoba,Empleado doméstico,Secundario completo,24.25,2.0,105.0,66.0,3747.88,246.0,81.0,5250.0,114.77,199.99,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+0.0,73.0,Córdoba,Jubilado,Secundario incompleto,28.73,2.0,130.0,80.0,2205.98,162.0,64.0,3500.0,339.05,100.03,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,57.0,Córdoba,Oficio,Primario completo,23.02,2.0,108.0,71.0,2162.92,115.0,100.0,2000.04,487.25,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+0.0,69.0,Córdoba,Jubilado,Primario completo,34.61,1.0,154.0,93.0,1993.34,240.0,108.92490118577075,0.0,675.77,150.01,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,54.0,Córdoba,Empleado doméstico,Secundario completo,27.98,1.0,116.0,75.0,1373.05,156.0,108.92490118577075,749.98,518.99,11.69,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,53.0,Córdoba,Empleado doméstico,Analfabeta,26.37,0.0,161.0,93.0,2350.25,212.0,93.0,2500.05,488.58,35.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,56.0,Córdoba,Oficio,Primario completo,29.76,1.0,143.0,82.0,1076.31,196.87058823529412,108.92490118577075,0.0,416.2,140.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,65.0,Córdoba,Empleado doméstico,Primario completo,42.763157894737,0.0,140.0,80.0,1958.0155625,196.87058823529412,108.92490118577075,3816.4323750000003,0.0,73.5371875,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,71.0,Córdoba,Jubilado,Universitario incompleto,26.971428571429,1.0,150.0,90.0,1999.35,196.87058823529412,108.92490118577075,1000.02,874.73,70.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,64.0,Córdoba,Jubilado,Primario completo,25.20147971991,0.0,119.0,76.0,977.86,131.0,82.0,249.97,564.03,0.0,Bajo,Suelo sin vegetacion,Humedad,Cubierta edificada,Sobrepeso,Pobre
+0.0,56.0,Córdoba,Profesional,Universitario completo,23.979389615537,0.0,120.0,74.0,1501.61,153.0,87.0,0.0,572.13,23.31,Moderado,Vegetacion media,Humedad,Cubierta vegetal,Normopeso,Intermedio
+0.0,47.0,Córdoba,Empleado doméstico,Primario completo,23.625979214132,0.0,131.0,81.0,3559.36,201.0,110.0,0.0,3706.91,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Intermedio
+0.0,53.0,Córdoba,Empleado doméstico,Primario completo,33.429348046574,1.0,109.0,70.0,1230.28,96.0,155.0,0.0,479.99,0.0,Bajo,Poca vegetacion,Humedad,Cubierta edificada,Obesidad,Pobre
+0.0,63.0,Córdoba,Oficio,Terciario completo,33.509814049587,0.0,155.0,88.0,1791.26,252.0,189.0,249.97,605.0,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,59.0,Córdoba,Empleado doméstico,Primario completo,53.155563352485,1.0,142.0,65.0,1288.67,196.87058823529412,108.92490118577075,233.38,475.37,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,50.0,Interior,Desocupado,Universitario completo,30.862603305785,0.0,159.0,82.0,2980.26,199.0,101.0,1000.02,503.57,35.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,59.0,Córdoba,Oficio,Secundario completo,32.633202800522,1.0,144.0,96.0,1958.0155625,213.0,96.0,3816.4323750000003,824.5572670807455,73.5371875,Bajo,Suelo sin vegetacion,Humedad,Cubierta edificada,Obesidad,Pobre
+0.0,56.0,Córdoba,Comerciante,Terciario incompleto,28.885543223276,1.0,151.0,92.0,3193.45,200.0,100.0,2250.01,1587.59,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,60.0,Córdoba,Empleado doméstico,Secundario completo,30.038088642659,1.0,132.0,86.0,2189.63,196.87058823529412,108.92490118577075,3500.0,1249.25,399.98,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,57.0,Córdoba,Empleado doméstico,Primario completo,41.086377840361,1.0,161.0,85.0,1958.0155625,196.87058823529412,108.92490118577075,3816.4323750000003,0.0,73.5371875,Moderado,Vegetacion media,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,58.0,Interior,Oficio,Terciario completo,23.3,1.0,131.0,81.0,1443.58,196.87058823529412,108.92490118577075,0.0,1303.67,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Intermedio
+0.0,63.0,Córdoba,Oficio,Primario completo,34.58069348647,0.0,142.0,86.0,2499.48,196.87058823529412,108.92490118577075,175.0,1067.82,150.01,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,50.0,Córdoba,Empleado doméstico,Secundario completo,41.223461061985,1.0,135.0,81.0,2485.22,109.0,154.0,308.28,846.98,321.02,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,58.0,Córdoba,Jubilado,Secundario completo,28.400547963514,0.0,156.0,80.0,1294.96,196.0,108.92490118577075,500.01,862.5,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,37.0,Córdoba,Empleado doméstico,Primario completo,26.5625,2.0,157.0,100.0,1056.68,244.0,86.0,4000.01,811.07,0.0,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,51.0,Córdoba,Empleado doméstico,Secundario completo,35.878245438062,0.0,126.0,75.0,1514.07,141.0,92.0,7000.0,1123.33,23.31,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,58.0,Córdoba,Profesional,Secundario completo,27.717685235262,1.0,145.0,98.0,2160.03,196.87058823529412,108.92490118577075,500.01,170.36,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,47.0,Córdoba,Comerciante,Primario completo,41.09977324263,1.0,141.0,87.0,1759.19,205.0,321.0,3500.0,897.26,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,49.0,Interior,Oficio,Primario completo,29.131985731272,0.0,159.0,96.0,1921.29,196.87058823529412,108.92490118577075,8999.97,482.23,140.0,Alto,Suelo sin vegetacion,Humedad,Cubierta edificada,Sobrepeso,Pobre
+1.0,54.0,Córdoba,Empleado doméstico,Secundario completo,25.14,2.0,101.0,71.0,839.49,258.0,105.0,7000.0,152.38,23.31,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,55.0,Interior,Oficio,Primario completo,32.69,0.0,146.0,88.0,2406.64,196.87058823529412,108.92490118577075,1500.03,350.01,0.0,Bajo,Suelo sin vegetacion,Sequia moderada,Cubierta edificada,Obesidad,Pobre
+1.0,65.0,Córdoba,Empleado doméstico,Primario completo,21.9,1.0,150.0,87.0,1705.17,181.0,108.92490118577075,0.0,1442.16,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+1.0,63.0,Interior,Jubilado,Terciario completo,50.71,2.0,171.0,86.0,2041.64,196.87058823529412,108.92490118577075,0.0,416.56,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,55.0,Córdoba,Empleado doméstico,Primario completo,45.45,0.0,164.0,86.0,2277.44,176.0,129.0,21000.0,673.4,150.01,Moderado,Vegetacion media,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,59.0,Interior,Empleado doméstico,Primario completo,43.29,0.0,169.0,93.0,877.98,247.0,96.0,0.0,842.64,46.62,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,51.0,Interior,Empleado doméstico,Primario completo,25.94,0.0,132.0,68.0,1800.3,196.87058823529412,108.92490118577075,7000.0,498.63,46.69,Moderado,Vegetacion media,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,46.0,Córdoba,Empleado doméstico,Primario completo,26.606510372744,1.0,120.0,79.0,1446.51,196.87058823529412,108.92490118577075,2250.01,749.29,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,54.0,Córdoba,Empleado doméstico,Primario completo,32.520832683125,1.0,120.0,79.0,1254.1,235.0,115.0,8249.99,471.43,150.01,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,41.0,Córdoba,Empleado doméstico,Primario completo,31.85595567867,1.0,114.0,81.67,1482.89,234.0,85.0,500.01,324.29,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,39.0,Córdoba,Empleado doméstico,Primario completo,33.28125,1.0,144.0,91.33,1409.59,241.0,99.0,3500.0,232.85,100.03,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,45.0,Córdoba,Empleado doméstico,Primario completo,44.720118983234,1.0,149.0,90.33,2856.27,172.0,122.0,3500.0,202.85,100.03,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,54.0,Córdoba,Empleado doméstico,Primario completo,32.633202800522,2.0,121.0,86.0,1203.2,249.0,96.0,0.0,511.7,251.3,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,36.0,Córdoba,Empleado doméstico,Primario completo,33.802055164954,2.0,131.0,63.0,1037.84,209.0,100.0,1000.02,230.33,70.0,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,47.0,Córdoba,Empleado doméstico,Primario completo,39.298648212557,1.0,130.0,90.0,2490.34,182.0,104.0,7000.0,458.1,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,45.0,Córdoba,Empleado doméstico,Primario completo,41.024388754922,0.0,130.0,80.0,2310.28,209.0,113.0,7000.0,203.59,450.03,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,51.0,Córdoba,Empleado doméstico,Primario completo,28.033908387864,1.0,120.0,67.33,1243.1,252.0,100.0,2116.66,471.43,105.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,36.0,Córdoba,Empleado doméstico,Primario completo,38.097192298485,2.0,115.0,87.33,1171.39,232.0,99.0,1750.0,253.57,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,49.0,Córdoba,Empleado doméstico,Primario completo,33.095521204915,0.0,139.33,95.33,1661.05,167.0,102.0,5250.0,198.54,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,57.0,Córdoba,Empleado doméstico,Primario completo,24.194840570421,2.0,152.67,81.67,1467.42,157.0,110.0,3500.0,442.85,150.01,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+0.0,41.0,Córdoba,Empleado doméstico,Primario completo,26.998299319728,0.0,130.0,80.67,1883.02,248.0,91.0,3500.0,1192.38,450.03,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,57.0,Córdoba,Empleado doméstico,Primario completo,41.914342325865,1.0,128.67,79.33,1739.31,133.0,103.0,5250.0,630.01,492.03,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,55.0,Córdoba,Empleado doméstico,Primario completo,27.32748364069,1.0,154.0,84.33,2113.43,215.0,93.0,2999.99,270.72,70.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,54.0,Córdoba,Empleado doméstico,Primario completo,32.407407407407,0.0,152.67,99.0,4014.83,207.0,108.0,12499.97,670.47,140.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,38.0,Córdoba,Empleado doméstico,Primario completo,38.526957003283,1.0,145.33,94.67,1947.62,160.0,167.0,0.0,647.16,35.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,37.0,Córdoba,Empleado doméstico,Primario completo,36.358420882785,0.0,123.0,81.67,2110.52,167.0,107.0,0.0,558.07,150.01,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,47.0,Córdoba,Empleado doméstico,Primario completo,34.955304435824,1.0,122.33,75.67,1304.96,263.0,106.0,500.01,919.45,70.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,60.0,Córdoba,Empleado doméstico,Primario completo,33.023417306431,1.0,173.0,86.67,3839.11,186.0,100.0,7749.98,565.7,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,58.0,Córdoba,Empleado doméstico,Primario completo,32.110726643599,1.0,142.0,93.67,1871.94,176.0,104.0,8750.0,515.72,67.62,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,43.0,Córdoba,Empleado doméstico,Primario completo,48.765432098765,2.0,190.33,122.67,2714.81,173.0,112.0,11500.02,508.1,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,57.0,Córdoba,Empleado doméstico,Primario completo,28.561128024355,2.0,156.0,97.67,791.6,158.0,106.0,500.01,623.82,70.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,35.0,Córdoba,Empleado doméstico,Primario completo,36.729250025649,2.0,123.33,85.33,880.78,165.0,70.0,500.01,594.05,199.99,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,50.0,Córdoba,Empleado doméstico,Primario completo,40.509786071916,0.0,139.0,96.33,2314.24,203.0,128.0,1500.03,131.43,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,55.0,Córdoba,Empleado doméstico,Primario completo,39.130249049511,2.0,106.0,68.0,1778.04,175.0,105.0,1000.02,460.47,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,57.0,Córdoba,Empleado doméstico,Primario completo,30.119375573921,0.0,148.67,98.0,1294.28,180.0,104.0,1983.31,256.31,100.03,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,57.0,Córdoba,Empleado doméstico,Primario completo,29.387755102041,0.0,129.0,77.33,1417.26,189.0,115.0,0.0,225.83,70.0,Bajo,Suelo sin vegetacion,Sequia moderada,Cubierta edificada,Sobrepeso,Pobre
+1.0,52.0,Córdoba,Oficio,Universitario incompleto,43.08,0.0,179.0,91.0,1283.0,170.0,112.0,500.01,1156.91,125.72,Bajo,Vegetacion densa,Superficie con agua,Cubierta vegetal,Obesidad,Pobre
+1.0,45.0,Interior,Empleado doméstico,Secundario completo,17.82,0.0,139.0,83.0,2771.4,134.0,85.0,0.0,1758.23,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Bajo peso,Intermedio
+1.0,58.0,Córdoba,Empleado doméstico,Primario completo,27.21,1.0,128.0,69.0,3022.76,211.0,91.0,1500.03,836.24,150.01,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,50.0,Córdoba,Comerciante,Secundario completo,35.32,1.0,146.0,94.0,2713.59,154.0,123.0,21249.97,355.01,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,53.0,Córdoba,Oficio,Terciario completo,34.9,0.0,120.0,70.0,732.08,203.0,93.0,0.0,563.95,0.0,Moderado,Poca vegetacion,Humedad,Cubierta edificada,Obesidad,Pobre
+0.0,67.0,Interior,Empleado doméstico,Primario completo,32.02,1.0,133.5675,79.87974683544304,2165.42,196.87058823529412,108.92490118577075,3500.0,1004.06,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,65.0,Córdoba,Jubilado,Primario completo,31.04,0.0,121.0,72.0,3114.04,196.87058823529412,108.92490118577075,0.0,375.46,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,59.0,Córdoba,Oficio,Primario completo,29.48,2.0,133.5675,79.87974683544304,3907.51,196.87058823529412,108.92490118577075,10500.0,775.0,150.01,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,35.0,Córdoba,Docente,Universitario completo,24.68,1.0,118.0,75.0,1865.04,186.0,85.0,749.98,754.28,93.31,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Intermedio
+1.0,56.0,Interior,Oficio,Secundario incompleto,21.49,0.0,114.0,58.0,1236.69,188.0,86.0,249.97,558.1,49.98,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+0.0,54.0,Córdoba,Comerciante,Secundario completo,33.59,0.0,130.0,85.0,3706.09,196.87058823529412,108.92490118577075,1000.02,678.7,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,62.0,Córdoba,Jubilado,Universitario incompleto,35.8,1.0,121.0,66.0,1958.0155625,200.0,106.0,3816.4323750000003,824.5572670807455,73.5371875,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,64.0,Córdoba,Empleado doméstico,Primario completo,28.64,1.0,145.0,80.0,2185.16,247.0,133.0,10733.31,540.03,0.0,Bajo,Suelo sin vegetacion,Humedad,Cubierta edificada,Sobrepeso,Pobre
+0.0,55.0,Córdoba,Comerciante,Universitario incompleto,26.149276859504,1.0,120.0,80.0,1758.18,233.0,91.0,1000.02,275.72,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,61.0,Córdoba,Comerciante,Universitario incompleto,28.235294117647,1.0,113.0,70.0,2047.78,181.0,104.0,1466.71,411.22,100.03,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,64.0,Córdoba,Empleado doméstico,Primario completo,26.43598615917,0.0,158.0,93.0,3749.56,144.0,94.0,11999.96,986.08,0.0,Alto,Suelo sin vegetacion,Humedad,Cubierta edificada,Sobrepeso,Pobre
+0.0,54.0,Córdoba,Profesional,Secundario completo,22.8,2.0,150.0,77.0,1085.82,244.0,97.0,2999.99,140.77,56.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+1.0,51.0,Córdoba,Jubilado,Primario completo,23.372576177285,0.0,105.0,60.0,4793.82,193.0,86.0,1116.71,1120.05,23.31,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+1.0,63.0,Córdoba,Jubilado,Primario completo,35.43704223499,1.0,120.0,70.0,1294.19,196.87058823529412,108.92490118577075,10500.0,340.11,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,75.0,Córdoba,Jubilado,Primario completo,29.031789809842,1.0,133.5675,79.87974683544304,1699.19,87.0,81.0,0.0,521.46,150.01,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Intermedio
+0.0,59.0,Córdoba,Comerciante,Terciario incompleto,22.327916501519,2.0,168.0,100.0,1232.34,209.0,107.0,5250.0,135.95,72.38,Bajo,Suelo sin vegetacion,Humedad,Cubierta edificada,Normopeso,Pobre
+1.0,62.0,Córdoba,Jubilado,Primario completo,34.281309586596,1.0,165.0,100.0,1148.99,219.0,132.0,116.69,1134.79,23.31,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,46.0,Córdoba,Docente,Universitario completo,28.058325968943,0.0,103.0,59.0,1657.92,258.0,104.0,0.0,1767.4,100.03,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,46.0,Interior,Docente,Universitario completo,20.820939916716,0.0,101.0,62.0,1112.51,167.0,96.0,0.0,701.76,0.0,Alto,Vegetacion media,Humedad,Cubierta vegetal,Normopeso,Intermedio
+1.0,58.0,Interior,Empleado doméstico,Secundario incompleto,31.311637080868,0.0,122.0,68.0,1487.88,120.0,129.0,3500.0,303.68,70.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,40.0,Córdoba,Profesional,Universitario completo,23.929279073312,0.0,107.0,65.0,1958.0155625,188.0,95.0,3816.4323750000003,824.5572670807455,73.5371875,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+0.0,46.0,Córdoba,Desocupado,Universitario completo,40.517766861487,0.0,162.0,110.0,4332.11,144.0,86.0,0.0,349.52,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,39.0,Córdoba,Oficio,Secundario incompleto,26.977594878829,0.0,131.0,77.0,1396.44,214.0,89.0,0.0,728.82,49.98,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Intermedio
+0.0,45.0,Interior,Oficio,Primario completo,32.007315957933,0.0,154.0,80.0,2537.26,227.0,93.0,0.0,1126.55,199.99,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,63.0,Córdoba,Jubilado,Primario completo,29.031789809842,2.0,162.0,100.0,1041.14,196.87058823529412,108.92490118577075,15750.0,522.38,60.69,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,56.0,Córdoba,Empleado doméstico,Primario completo,31.840708740845,0.0,96.0,65.0,891.86,183.0,94.0,3500.0,647.6,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,55.0,Interior,Empleado doméstico,Terciario completo,31.498015873016,1.0,133.5675,79.87974683544304,3395.1,209.0,104.0,0.0,598.81,300.02,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,52.0,Córdoba,Empleado doméstico,Primario completo,32.882414151925,0.0,190.0,105.0,1412.68,154.0,110.0,116.69,988.11,0.0,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,51.0,Córdoba,Comerciante,Universitario incompleto,38.189622522409,0.0,109.0,78.0,2780.99,171.0,99.0,15750.0,636.59,112.0,Bajo,Vegetacion media,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,56.0,Córdoba,Docente,Universitario completo,26.672763298278,0.0,118.0,78.0,2304.63,278.0,118.0,5250.0,985.08,102.69,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,45.0,Interior,Docente,Universitario completo,26.851851851852,0.0,109.0,59.0,2269.48,197.0,104.0,0.0,627.87,46.69,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Intermedio
+1.0,63.0,Córdoba,Empleado doméstico,Primario completo,40.46875,1.0,133.5675,79.87974683544304,2711.07,247.0,105.0,0.0,575.73,0.0,Bajo,Vegetacion media,Superficie con agua,Cubierta vegetal,Obesidad,Pobre
+0.0,56.0,Interior,Oficio,Primario completo,24.310660116892,1.0,133.5675,79.87974683544304,1324.34,108.0,109.0,0.0,1413.55,0.0,Bajo,Poca vegetacion,Humedad,Cubierta edificada,Normopeso,Pobre
+1.0,40.0,Córdoba,Docente,Universitario completo,25.209201358496,0.0,125.0,81.0,1447.26,198.0,116.0,0.0,631.56,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Intermedio
+1.0,50.0,Córdoba,Empleado doméstico,Primario completo,41.00143458744,0.0,128.0,80.0,1081.81,202.0,106.0,249.97,452.86,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,38.0,Interior,Oficio,Universitario incompleto,27.496020723448,0.0,132.0,85.0,1958.0155625,252.0,91.0,3816.4323750000003,824.5572670807455,73.5371875,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,41.0,Córdoba,Profesional,Universitario completo,30.765754132231,0.0,120.0,80.0,947.69,241.0,95.0,0.0,1403.69,100.03,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,44.0,Córdoba,Docente,Universitario completo,25.419145484045,0.0,122.0,83.0,1075.16,208.0,94.0,0.0,1446.54,100.03,Bajo,Vegetacion media,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,42.0,Córdoba,Empleado doméstico,Terciario completo,28.10650887574,1.0,134.0,76.0,2106.03,205.0,96.0,999.95,483.44,70.0,Moderado,Vegetacion media,Humedad,Cubierta vegetal,Sobrepeso,Intermedio
+1.0,49.0,Córdoba,Oficio,Terciario completo,22.353848026289,1.0,98.0,55.0,1735.95,248.0,92.0,5999.98,597.17,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+1.0,50.0,Córdoba,Empleado doméstico,Primario completo,34.215418693881,1.0,133.5675,79.87974683544304,2455.76,186.0,184.0,0.0,2281.2,300.02,Moderado,Suelo sin vegetacion,Humedad,Cubierta edificada,Obesidad,Pobre
+1.0,44.0,Córdoba,Empleado doméstico,Secundario completo,24.157902758726,2.0,115.0,70.0,1747.83,231.0,82.0,0.0,628.81,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+1.0,53.0,Córdoba,Comerciante,Terciario incompleto,23.647583442187,0.0,147.0,88.0,569.81,250.0,112.0,0.0,604.27,199.99,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+1.0,44.0,Córdoba,Docente,Universitario completo,20.1171875,0.0,110.0,66.0,1648.61,178.0,93.0,749.98,789.55,214.06,Moderado,Suelo sin vegetacion,Humedad,Cubierta edificada,Normopeso,Intermedio
+1.0,48.0,Córdoba,Docente,Universitario completo,22.408786769347,0.0,100.0,70.0,631.08,193.0,89.0,0.0,1411.5,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Intermedio
+0.0,48.0,Córdoba,Comerciante,Primario completo,48.979591836735,0.0,142.0,97.0,0.0,174.0,91.0,3750.04,886.68,0.0,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,68.0,Córdoba,Jubilado,Primario completo,32.461911357341,0.0,142.0,72.0,1679.64,184.0,104.0,10749.97,1450.74,23.31,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,52.0,Córdoba,Profesional,Universitario completo,33.064221672279,1.0,111.0,67.0,3691.99,291.0,104.0,2233.28,1728.78,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,60.0,Interior,Oficio,Secundario completo,25.548670675498,0.0,131.0,76.0,1368.25,170.0,100.0,1500.03,387.37,72.31,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,58.0,Córdoba,Profesional,Universitario completo,24.167162403331,1.0,139.0,84.0,1089.69,235.0,95.0,0.0,417.06,0.0,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Intermedio
+1.0,55.0,Córdoba,Oficio,Primario completo,28.60156598645,2.0,101.0,73.0,3412.52,289.0,106.0,0.0,1646.68,150.01,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,58.0,Córdoba,Empleado doméstico,Primario completo,31.356292517007,2.0,119.0,86.0,4546.33,198.0,93.0,7000.0,1214.31,322.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,47.0,Interior,Empleado doméstico,Secundario completo,28.316808765094,0.0,113.0,64.0,1228.13,157.0,95.0,3966.62,938.67,0.0,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Intermedio
+1.0,62.0,Interior,Empleado doméstico,Secundario completo,24.577046181984,1.0,127.0,72.0,1424.34,240.0,87.0,616.7,641.25,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+1.0,54.0,Interior,Docente,Terciario completo,20.841590698903,0.0,98.0,53.0,3440.18,203.0,91.0,14000.0,1986.55,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+0.0,69.0,Córdoba,Jubilado,Primario completo,31.0546875,1.0,197.0,86.0,2047.51,259.0,127.0,4000.01,918.02,35.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+0.0,61.0,Córdoba,Jubilado,Primario completo,31.240602759865,0.0,123.0,81.0,913.26,162.0,128.0,0.0,935.72,150.01,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,51.0,Córdoba,Profesional,Universitario completo,44.00017087445,1.0,131.0,86.0,3588.36,153.0,109.0,499.94,1280.22,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,59.0,Interior,Empleado doméstico,Secundario completo,32.739664895128,0.0,132.0,75.0,935.63,250.0,109.0,0.0,917.98,100.03,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,56.0,Interior,Empleado doméstico,Primario completo,30.817174515235,2.0,121.0,65.0,574.32,250.0,84.0,5250.0,554.69,199.99,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,45.0,Córdoba,Empleado doméstico,Primario completo,33.387864366449,0.0,117.0,90.0,905.92,252.0,93.0,2674.98,774.49,23.31,Moderado,Suelo sin vegetacion,Humedad,Cubierta edificada,Obesidad,Pobre
+1.0,53.0,Córdoba,Empleado doméstico,Primario completo,24.548443763794,0.0,95.0,68.0,838.02,308.0,92.0,233.31,858.13,0.0,Bajo,Suelo sin vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+1.0,66.0,Córdoba,Jubilado,Secundario completo,26.74,0.0,189.0,98.0,2123.51,193.0,88.0,749.98,1004.55,100.03,Moderado,Suelo sin vegetacion,Sequia moderada,Cubierta edificada,Sobrepeso,Pobre
+0.0,46.0,Córdoba,Oficio,Terciario completo,26.67,0.0,103.0,66.0,2570.5,195.0,104.0,2500.05,1008.25,46.69,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,43.0,Interior,Empleado doméstico,Secundario completo,29.43,0.0,132.0,81.0,1421.06,223.0,97.0,1983.31,1043.95,150.01,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Intermedio
+0.0,49.0,Interior,Oficio,Secundario completo,31.85,2.0,137.0,90.0,1270.6,196.87058823529412,108.92490118577075,233.31,400.95,0.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,51.0,Interior,Oficio,Secundario completo,27.63,0.0,115.0,70.0,945.01,196.87058823529412,108.92490118577075,7000.0,1242.88,49.98,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Intermedio
+0.0,48.0,Córdoba,Oficio,Secundario completo,28.7,0.0,128.0,85.0,1606.9,133.0,102.0,1500.03,927.4,35.0,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,52.0,Córdoba,Oficio,Terciario completo,21.05,0.0,125.0,86.0,2127.79,187.0,94.0,233.31,1185.63,46.69,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Intermedio
+1.0,38.0,Córdoba,Empleado doméstico,Secundario completo,27.78,1.0,112.0,75.0,1036.89,196.87058823529412,108.92490118577075,1000.02,722.86,0.0,Bajo,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+1.0,43.0,Córdoba,Empleado doméstico,Terciario completo,23.36,0.0,140.0,70.0,465.17,183.0,102.0,0.0,159.63,23.31,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Normopeso,Pobre
+0.0,61.0,Córdoba,Empleado doméstico,Secundario completo,26.03,0.0,147.0,87.0,1163.91,133.0,105.0,2250.01,646.89,199.99,Moderado,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Pobre
+0.0,45.0,Córdoba,Empleado doméstico,Primario completo,37.18,0.0,126.0,70.0,990.03,222.0,98.0,0.0,2041.53,0.0,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Obesidad,Pobre
+1.0,41.0,Córdoba,Oficio,Secundario incompleto,26.65,0.0,109.0,71.0,1359.34,204.0,85.0,875.0,3381.43,0.0,Moderado,Suelo sin vegetacion,Humedad,Cubierta edificada,Sobrepeso,Intermedio
+1.0,48.0,Córdoba,Oficio,Terciario incompleto,25.59,0.0,120.0,82.0,692.99,196.87058823529412,108.92490118577075,424.97,907.63,0.0,Alto,Poca vegetacion,Humedad,Cubierta vegetal,Sobrepeso,Intermedio
